@@ -1,0 +1,14 @@
+{
+    "name": "Test WebApp",
+    "description": "",
+    "version": "1.0.0",
+    "appUrl": "",
+    "requiredBrowser": "edge",
+    "icon": "icon.png",
+    "assets": {
+        "boxart_image": "",
+        "artwork_image": "",
+        "hero_image": "",
+        "logo_image": ""
+    }
+}
